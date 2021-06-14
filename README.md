@@ -1,2 +1,2 @@
-# test-repository
-My test repositoty 14/06
+# Welcome to test-repository
+14/06: introduction
