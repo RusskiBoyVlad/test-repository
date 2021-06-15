@@ -1,0 +1,2 @@
+Basic correlation function, displays a table with 2 variables displaying percentages
+print(Train[['Var1','Var2']].groupby['Var1'], as_index=False).mean().sort_values(by='Var2', ascending=Tue))
