@@ -19,4 +19,4 @@ perceptron - linear classifier (0,1)
 Linear SVC
 Stochastic Gradient Descent
 Decision Tree
-Random Tree
+Random Tree - mean prediction taken from all decision tree
