@@ -1,1 +1,12 @@
+# Assess the situation:
+1. What are the stats of the df? .describe , .length
+
+#Problems with the df
+1.Missing values
+1.1 Different formats: time, different formulations of the same variable
+1.2 Categorical vars? Convert categorical into numerical, or hot-encoded
+1.3 
+
+#
+
 
