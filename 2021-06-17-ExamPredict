@@ -5,8 +5,9 @@
 # Observations:
 1. There are 3 numerical values and 8 categorical, out of which 5 are binary(ish, as in 2 of them have 3 possible options to choose from), 1 variable is unique to each entry and 
     2 are names of schools and classrooms
+
 Using the sns.FacetGrid I was able to determine a look at a variety of relationships between our goal feature ('posttest') and other features:
-  1. The variable of school_setting has a large distribution difference between the 3 variables of urban suburban and rural
+  1. The variable of school_setting has a large distribution difference between the 3 variables of urban suburban and rural, with urban mean: 61.7, rural is 64 and suburban is 76.
   2. School_type also
   3. Lunch
   4. pretest
