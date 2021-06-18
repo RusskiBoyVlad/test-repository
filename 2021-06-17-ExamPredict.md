@@ -18,5 +18,11 @@ Using the sns.FacetGrid & .groupby determine relationships between our goal feat
   
   
 Conversion of categorical into numerical values:
+    Converted var into num
     
+Things to do:
+    1. Check for outliers
+    2. Run a variety of algorithms in order to compare their performances
+    3. run a nn
+    4. XGBooost
 
