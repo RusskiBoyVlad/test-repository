@@ -22,7 +22,9 @@ Conversion of categorical into numerical values:
     
 Things to do:
     1. Check for outliers
-    2. Run a variety of algorithms in order to compare their performances
-    3. run a nn
+        1.0 View outliers on graphs
+        1.1 Removing outliers hasn't resulted in a better accuracy score (perhaps a better evaluation system will result in one)
+    2. Run a variety of algorithms in order to compare their performances (RandomForestClassifier performs the best with a R2 value of 0.931)
+    3. run a nn (0.941 R2 values)
     4. XGBooost
 
