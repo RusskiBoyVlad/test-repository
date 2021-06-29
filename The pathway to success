@@ -31,3 +31,5 @@ beta
 mini-batch-size
 Third rate importance
 beta1,beta2,epsilon,leraning_rate_decay,#layers
+
+For scale, a log scale is better as its more uniform.
