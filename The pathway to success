@@ -20,3 +20,14 @@ Linear SVC
 Stochastic Gradient Descent
 Decision Tree
 Random Tree - mean prediction taken from all decision tree
+
+
+Hyperparameter tuning:
+Top:
+learning_Rate
+Second_rate_importance:
+beta
+#hidden units
+mini-batch-size
+Third rate importance
+beta1,beta2,epsilon,leraning_rate_decay,#layers
